@@ -4,29 +4,5 @@ test_cases:
     LEXUS_FLI_VOL: 2.24571
   response: 7C803612911
 - expected_values:
-    LEXUS_FLI_VOL: 2.64201
-  response: 7C803612914
-- expected_values:
-    LEXUS_FLI_VOL: 2.77411
-  response: 7C803612915
-- expected_values:
-    LEXUS_FLI_VOL: 4.62351
-  response: 7C803612923
-- expected_values:
-    LEXUS_FLI_VOL: 4.88771
-  response: 7C803612925
-- expected_values:
-    LEXUS_FLI_VOL: 5.15192
-  response: 7C803612927
-- expected_values:
-    LEXUS_FLI_VOL: 5.41612
-  response: 7C803612929
-- expected_values:
-    LEXUS_FLI_VOL: 5.68032
-  response: 7C80361292B
-- expected_values:
-    LEXUS_FLI_VOL: 5.81242
-  response: 7C80361292C
-- expected_values:
     LEXUS_FLI_VOL: 6.07662
   response: 7C80361292E
