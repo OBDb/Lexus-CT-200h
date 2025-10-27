@@ -4,5 +4,5 @@ test_cases:
     LEXUS_FLI_VOL: 2.24571
   response: 7C803612911
 - expected_values:
-    LEXUS_FLI_VOL: 6.07662
-  response: 7C80361292E
+    LEXUS_FLI_VOL: 11.49273
+  response: 7C803612957
