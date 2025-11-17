@@ -1,0 +1,17 @@
+command_id: 7C4.2124
+test_cases:
+- expected_values:
+    LEXUS_D_SIDE_: 87
+  response: 7CC03612457
+- expected_values:
+    LEXUS_D_SIDE_: 92
+  response: 7CC0361245C
+- expected_values:
+    LEXUS_D_SIDE_: 101
+  response: 7CC03612465
+- expected_values:
+    LEXUS_D_SIDE_: 106
+  response: 7CC0361246A
+- expected_values:
+    LEXUS_D_SIDE_: 108
+  response: 7CC0361246C
