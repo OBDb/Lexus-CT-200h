@@ -1,0 +1,17 @@
+command_id: 7C0.7C8.2112
+test_cases:
+- expected_values:
+    LEXUS_CHECK_ENGINE: 0
+    LEXUS_P_SEATBELT_BUCKLE: 0
+    LEXUS_TAIL_CANCEL: 1
+  response: 7C80761122100000500
+- expected_values:
+    LEXUS_CHECK_ENGINE: 0
+    LEXUS_P_SEATBELT_BUCKLE: 0
+    LEXUS_TAIL_CANCEL: 1
+  response: 7C80761122100000510
+- expected_values:
+    LEXUS_CHECK_ENGINE: 0
+    LEXUS_P_SEATBELT_BUCKLE: 0
+    LEXUS_TAIL_CANCEL: 1
+  response: 7C80761122100040510
