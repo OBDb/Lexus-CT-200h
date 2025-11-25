@@ -1,0 +1,20 @@
+command_id: 7C4.7CC.2124
+test_cases:
+- expected_values:
+    LEXUS_SOLAR_D_SIDE: 0
+  response: 7CC03612400
+- expected_values:
+    LEXUS_SOLAR_D_SIDE: 87
+  response: 7CC03612457
+- expected_values:
+    LEXUS_SOLAR_D_SIDE: 92
+  response: 7CC0361245C
+- expected_values:
+    LEXUS_SOLAR_D_SIDE: 101
+  response: 7CC03612465
+- expected_values:
+    LEXUS_SOLAR_D_SIDE: 106
+  response: 7CC0361246A
+- expected_values:
+    LEXUS_SOLAR_D_SIDE: 108
+  response: 7CC0361246C
