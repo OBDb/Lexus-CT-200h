@@ -1,0 +1,20 @@
+command_id: 7C0.7C8.2121
+test_cases:
+- expected_values:
+    LEXUS_VSS_7C0: 0
+  response: 7C803612100
+- expected_values:
+    LEXUS_VSS_7C0: 25
+  response: 7C803612119
+- expected_values:
+    LEXUS_VSS_7C0: 32
+  response: 7C803612120
+- expected_values:
+    LEXUS_VSS_7C0: 37
+  response: 7C803612125
+- expected_values:
+    LEXUS_VSS_7C0: 60
+  response: 7C80361213C
+- expected_values:
+    LEXUS_VSS_7C0: 67
+  response: 7C803612143
