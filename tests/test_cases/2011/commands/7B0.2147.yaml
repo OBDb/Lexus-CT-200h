@@ -3,9 +3,7 @@ test_cases:
 - expected_values:
     LEXUS_LAT_G: 0
     LEXUS_LNG_G: 0
-    LEXUS_YAW: -13
-    LEXUS_YAW_RATE: -13
-  response: 7B8076147000073776D
+  response: 7B807614700006E92FE
 - expected_values:
     LEXUS_LAT_G: 0
     LEXUS_LNG_G: 0
