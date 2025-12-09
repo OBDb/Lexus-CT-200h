@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.2103
 test_cases:
 - expected_values:
+    LEXUS_LONG_FT_B1S1: 2.34375
+    LEXUS_SHORT_FT_B1S1: 0
+  response: |-
+    7E81009610301008083
+    7E8218A000000000000
+- expected_values:
     LEXUS_LONG_FT_B1S1: 7.03125
     LEXUS_SHORT_FT_B1S1: 0
   response: |-
