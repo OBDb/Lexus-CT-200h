@@ -1,0 +1,18 @@
+command_id: 7B0.7B8.2148
+test_cases:
+- expected_values:
+    LEXUS_FR_REGEN_OPERATION: 0
+    LEXUS_FR_REGEN_REQUEST: 0
+  response: 7B806614800000000
+- expected_values:
+    LEXUS_FR_REGEN_OPERATION: 5
+    LEXUS_FR_REGEN_REQUEST: 5
+  response: 7B806614800050005
+- expected_values:
+    LEXUS_FR_REGEN_OPERATION: 7
+    LEXUS_FR_REGEN_REQUEST: 8
+  response: 7B806614800080007
+- expected_values:
+    LEXUS_FR_REGEN_OPERATION: 17
+    LEXUS_FR_REGEN_REQUEST: 18
+  response: 7B806614800120011

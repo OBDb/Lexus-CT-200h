@@ -1,23 +1,23 @@
 command_id: 7E0.7E8.2105
 test_cases:
 - expected_values:
-    LEXUS_CATALYST_T_B1S1: 67.2
-  response: 7E806610505A90430
+    LEXUS_CATALYST_T_B1S1: 75.5
+  response: '7E806610506060483'
 - expected_values:
-    LEXUS_CATALYST_T_B1S1: 491.8
-  response: 7E806610516FE14C6
+    LEXUS_CATALYST_T_B1S1: 495.2
+  response: 7E8066105170214E8
 - expected_values:
-    LEXUS_CATALYST_T_B1S1: 524.5
-  response: 7E80661051801160D
+    LEXUS_CATALYST_T_B1S1: 523.8
+  response: '7E806610518131606'
 - expected_values:
-    LEXUS_CATALYST_T_B1S1: 497.5
-  response: 7E8066105188B14FF
+    LEXUS_CATALYST_T_B1S1: 522.6
+  response: 7E8066105184215FA
 - expected_values:
-    LEXUS_CATALYST_T_B1S1: 497.6
-  response: 7E806610518E91500
+    LEXUS_CATALYST_T_B1S1: 505.8
+  response: 7E806610518FD1552
 - expected_values:
-    LEXUS_CATALYST_T_B1S1: 600.4
-  response: 7E80661051BC61904
+    LEXUS_CATALYST_T_B1S1: 580.5
+  response: 7E80661051A5D183D
 - expected_values:
     LEXUS_CATALYST_T_B1S1: 599.3
   response: 7E80661051C1018F9
