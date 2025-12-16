@@ -7,26 +7,26 @@ test_cases:
     LEXUS_YAW_RATE_V2: -34
   response: 7B80661065E5E6D31
 - expected_values:
-    LEXUS_YAW_1: -13
-    LEXUS_YAW_2: -13
-    LEXUS_YAW_RATE2: -13
-    LEXUS_YAW_RATE_V2: -13
-  response: 7B806610673739338
-- expected_values:
     LEXUS_YAW_1: -1
     LEXUS_YAW_2: -1
     LEXUS_YAW_RATE2: -1
     LEXUS_YAW_RATE_V2: -1
   response: 7B80661067F7F8000
 - expected_values:
-    LEXUS_YAW_1: 3
-    LEXUS_YAW_2: 3
-    LEXUS_YAW_RATE2: 3
-    LEXUS_YAW_RATE_V2: 3
-  response: 7B8066106838380FF
+    LEXUS_YAW_1: 0
+    LEXUS_YAW_2: 0
+    LEXUS_YAW_RATE2: 0
+    LEXUS_YAW_RATE_V2: 0
+  response: 7B8066106808082FD
 - expected_values:
-    LEXUS_YAW_1: 26
-    LEXUS_YAW_2: 26
-    LEXUS_YAW_RATE2: 26
-    LEXUS_YAW_RATE_V2: 26
-  response: 7B80661069A9A8C6C
+    LEXUS_YAW_1: 21
+    LEXUS_YAW_2: 21
+    LEXUS_YAW_RATE2: 21
+    LEXUS_YAW_RATE_V2: 21
+  response: 7B806610695959329
+- expected_values:
+    LEXUS_YAW_1: 23
+    LEXUS_YAW_2: 23
+    LEXUS_YAW_RATE2: 23
+    LEXUS_YAW_RATE_V2: 23
+  response: 7B8066106979785CD
