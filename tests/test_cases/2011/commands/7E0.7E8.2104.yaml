@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.2104
 test_cases:
 - expected_values:
+    LEXUS_TARGET_AIR_FUEL_RATIO: 0.93644
+  response: |-
+    7E8100E6104787784DA
+    7E8216F1184DA801069
+    7E822FF000000000000
+- expected_values:
     LEXUS_TARGET_AIR_FUEL_RATIO: 0.9594
   response: |-
     7E8100E61047B6B83B2
