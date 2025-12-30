@@ -1,6 +1,7 @@
 command_id: 7E0.7E8.2103
 test_cases:
 - expected_values:
+    LEXUS_EVAP_PURGE_DUTY: 0
     LEXUS_IGN_ADVANCE: 138
     LEXUS_LONG_FT_B1S1: 4.6875
     LEXUS_SHORT_FT_B1S1: 0
