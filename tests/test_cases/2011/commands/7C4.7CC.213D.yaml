@@ -4,5 +4,5 @@ test_cases:
     LEXUS_ADJUSTED_AMBIENT_T: 22.96
   response: 7CC03613DA8
 - expected_values:
-    LEXUS_ADJUSTED_AMBIENT_T: 35.76
-  response: 7CC03613DD0
+    LEXUS_ADJUSTED_AMBIENT_T: 35.44
+  response: 7CC03613DCF
