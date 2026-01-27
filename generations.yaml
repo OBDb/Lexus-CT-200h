@@ -2,7 +2,15 @@ references:
   - "https://en.wikipedia.org/wiki/Lexus_CT"
 
 generations:
-  - name: "First Generation"
+  - name: "First Generation (Pre-Facelift)"
     start_year: 2011
+    end_year: 2013
+    description: "The original Lexus CT 200h pre-facelift model, launched in January 2011, marked Lexus's entry into the premium compact hybrid hatchback market. Built on the Toyota MC platform with a 1.8-liter 2ZR-FXE hybrid powertrain producing 100 kW combined output. Featured the original front fascia design before the spindle grille was introduced. Sold in Japan, Europe, and North America (from March 2011)."
+  - name: "First Generation (First Facelift)"
+    start_year: 2014
+    end_year: 2017
+    description: "The 2014 model year facelift introduced Lexus's signature spindle grille design, replacing the original front fascia. Other updates included revised interior trims and equipment options. This version continued through the 2017 model year in North America before CT 200h was discontinued in the US market."
+  - name: "First Generation (Second Facelift)"
+    start_year: 2018
     end_year: 2022
-    description: "The Lexus CT 200h is a hybrid electric compact luxury hatchback that debuted in 2011, making Lexus's entry into the premium compact market. Built on the Toyota MC platform shared with the Prius and Auris, the CT 200h featured the brand's first use of the signature spindle grille design. Powered by a 1.8-liter four-cylinder engine (2ZR-FXE) combined with an electric motor producing 100 kW (134 horsepower) of combined system output, it achieved excellent fuel economy with EPA ratings of approximately 43 mpg city and 40 mpg highway. The eCVT transmission featured four driving modes: Normal, Sport, Eco, and EV for short distances of electric-only operation. The vehicle underwent three significant design phases: the original pre-facelift model (2011-2013), a first facelift in 2013 with redesigned spindle grille (2013-2017), and a second facelift in 2017 with full LED lighting and an even larger spindle grille standard on all models (2017-2022). Sales began in Japan in January 2011, Europe shortly thereafter, and North America in March 2011. The CT 200h was discontinued in North America after the 2017 model year but continued sales globally until October 2022. The model served as the entry point to the Lexus lineup in many markets and was eventually replaced by the UX crossover."
+    description: "The second and final facelift launched for the 2018 model year, featuring full LED headlights with new design as an option and a larger spindle grille standard on all models. Production continued globally until October 2022, when the CT 200h was discontinued and replaced by the Lexus UX crossover. This represents the final evolution of the A10 platform."
