@@ -4,5 +4,5 @@ test_cases:
     LEXUS_BAT_V: 11.4
   response: 7C803611372
 - expected_values:
-    LEXUS_BAT_V: 14.7
-  response: 7C803611393
+    LEXUS_BAT_V: 14.8
+  response: 7C803611394
