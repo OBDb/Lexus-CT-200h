@@ -5,6 +5,6 @@ test_cases:
     LEXUS_ECT_7C0: 24.5
   response: 7C803612331
 - expected_values:
-    LEXUS_COOLANT_T: 84
-    LEXUS_ECT_7C0: 84
-  response: 7C8036123A8
+    LEXUS_COOLANT_T: 86.5
+    LEXUS_ECT_7C0: 86.5
+  response: 7C8036123AD

@@ -1,0 +1,32 @@
+command_id: 7B0.7B8.2107
+test_cases:
+- expected_values:
+    LEXUS_WHEEL_CYLINDER_PRESSURE: 0.4902
+  response: 7B803610719
+- expected_values:
+    LEXUS_WHEEL_CYLINDER_PRESSURE: 0.7451
+  response: 7B803610726
+- expected_values:
+    LEXUS_WHEEL_CYLINDER_PRESSURE: 0.76471
+  response: 7B803610727
+- expected_values:
+    LEXUS_WHEEL_CYLINDER_PRESSURE: 0.78431
+  response: 7B803610728
+- expected_values:
+    LEXUS_WHEEL_CYLINDER_PRESSURE: 0.86275
+  response: 7B80361072C
+- expected_values:
+    LEXUS_WHEEL_CYLINDER_PRESSURE: 0.88235
+  response: 7B80361072D
+- expected_values:
+    LEXUS_WHEEL_CYLINDER_PRESSURE: 0.90196
+  response: 7B80361072E
+- expected_values:
+    LEXUS_WHEEL_CYLINDER_PRESSURE: 0.94118
+  response: 7B803610730
+- expected_values:
+    LEXUS_WHEEL_CYLINDER_PRESSURE: 0.96078
+  response: 7B803610731
+- expected_values:
+    LEXUS_WHEEL_CYLINDER_PRESSURE: 1.03922
+  response: 7B803610735
