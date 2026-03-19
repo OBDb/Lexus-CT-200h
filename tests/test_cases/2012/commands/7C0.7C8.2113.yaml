@@ -1,6 +1,9 @@
 command_id: 7C0.7C8.2113
 test_cases:
 - expected_values:
+    LEXUS_BAT_V: 14.7
+  response: 7C803611393
+- expected_values:
     LEXUS_BAT_V: 14.8
   response: 7C803611394
 - expected_values:
