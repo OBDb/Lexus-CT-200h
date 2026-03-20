@@ -3,19 +3,19 @@ test_cases:
 - expected_values:
     LEXUS_LAT_G: 0
     LEXUS_LNG_G: 0
-    LEXUS_STEERING_ANGLE: -0.5
-    LEXUS_STEER_ANGLE: -0.5
+    LEXUS_STEERING_ANGLE: -2.2
+    LEXUS_STEER_ANGLE: -2.2
     LEXUS_YAW: 0
     LEXUS_YAW_RATE: 0
-  response: 7B80761470000807FFB
+  response: 7B80761470000807FEA
 - expected_values:
     LEXUS_LAT_G: 0
     LEXUS_LNG_G: 0
-    LEXUS_STEERING_ANGLE: -0.2
-    LEXUS_STEER_ANGLE: -0.2
+    LEXUS_STEERING_ANGLE: 0
+    LEXUS_STEER_ANGLE: 0
     LEXUS_YAW: 0
     LEXUS_YAW_RATE: 0
-  response: 7B80761470000807FFE
+  response: 7B80761470000808000
 - expected_values:
     LEXUS_LAT_G: 0
     LEXUS_LNG_G: 0.04
@@ -26,20 +26,20 @@ test_cases:
   response: 7B807614700027C9311
 - expected_values:
     LEXUS_LAT_G: 0
+    LEXUS_LNG_G: 0.08
+    LEXUS_STEERING_ANGLE: -0.1
+    LEXUS_STEER_ANGLE: -0.1
+    LEXUS_YAW: 0
+    LEXUS_YAW_RATE: 0
+  response: 7B80761470004807FFF
+- expected_values:
+    LEXUS_LAT_G: 0
     LEXUS_LNG_G: -0.02
     LEXUS_STEERING_ANGLE: -223.5
     LEXUS_STEER_ANGLE: -223.5
     LEXUS_YAW: 0
     LEXUS_YAW_RATE: 0
   response: 7B807614700FF807745
-- expected_values:
-    LEXUS_LAT_G: 0.02
-    LEXUS_LNG_G: 0.02
-    LEXUS_STEERING_ANGLE: 0
-    LEXUS_STEER_ANGLE: 0
-    LEXUS_YAW: 0
-    LEXUS_YAW_RATE: 0
-  response: 7B80761470101808000
 - expected_values:
     LEXUS_LAT_G: 0.18
     LEXUS_LNG_G: 0.12
@@ -49,21 +49,13 @@ test_cases:
     LEXUS_YAW_RATE: 13
   response: 7B807614709068D81DF
 - expected_values:
-    LEXUS_LAT_G: -0.16
-    LEXUS_LNG_G: 0.06
-    LEXUS_STEERING_ANGLE: -228.9
-    LEXUS_STEER_ANGLE: -228.9
-    LEXUS_YAW: -21
-    LEXUS_YAW_RATE: -21
-  response: 7B8076147F8036B770F
-- expected_values:
-    LEXUS_LAT_G: -0.1
-    LEXUS_LNG_G: -0.02
-    LEXUS_STEERING_ANGLE: -252
-    LEXUS_STEER_ANGLE: -252
-    LEXUS_YAW: 0
-    LEXUS_YAW_RATE: 0
-  response: 7B8076147FBFF807628
+    LEXUS_LAT_G: -0.46
+    LEXUS_LNG_G: -0.04
+    LEXUS_STEERING_ANGLE: -297.8
+    LEXUS_STEER_ANGLE: -297.8
+    LEXUS_YAW: -35
+    LEXUS_YAW_RATE: -35
+  response: 7B8076147E9FE5D745E
 - expected_values:
     LEXUS_LAT_G: -0.02
     LEXUS_LNG_G: 0
