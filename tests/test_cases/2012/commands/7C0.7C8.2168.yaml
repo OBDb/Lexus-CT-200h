@@ -1,5 +1,8 @@
 command_id: 7C0.7C8.2168
 test_cases:
 - expected_values:
+    LEXUS_RHEOSTAT: 226
+  response: 7C8036168E2
+- expected_values:
     LEXUS_RHEOSTAT: 227
   response: 7C8036168E3
