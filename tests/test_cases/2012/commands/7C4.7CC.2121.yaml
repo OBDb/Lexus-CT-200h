@@ -4,5 +4,5 @@ test_cases:
     LEXUS_CABIN_T: 10.25
   response: 7CC03612143
 - expected_values:
-    LEXUS_CABIN_T: 41
-  response: 7CC036121BE
+    LEXUS_CABIN_T: 44
+  response: 7CC036121CA
