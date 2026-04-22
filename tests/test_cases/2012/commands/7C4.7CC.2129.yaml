@@ -4,5 +4,5 @@ test_cases:
     LEXUS_T_DRIVER: 32
   response: 7CC03612920
 - expected_values:
-    LEXUS_T_DRIVER: 48
-  response: 7CC03612930
+    LEXUS_T_DRIVER: 50
+  response: 7CC03612932
