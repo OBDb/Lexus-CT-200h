@@ -1,8 +1,8 @@
 command_id: 7C0.7C8.2141
 test_cases:
 - expected_values:
-    LEXUS_OIL_CHANGE_ODO: 2735.8848
-  response: 7C803614111
+    LEXUS_OIL_CHANGE_ODO: 0
+  response: 7C803614100
 - expected_values:
     LEXUS_OIL_CHANGE_ODO: 7402.9824
   response: 7C80361412E
