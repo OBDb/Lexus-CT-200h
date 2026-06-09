@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     LEXUS_RHEOSTAT: 233
   response: 7C8036168E9
+- expected_values:
+    LEXUS_RHEOSTAT: 255
+  response: 7C8036168FF
