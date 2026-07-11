@@ -1,0 +1,29 @@
+command_id: 7C0.7C8.2168
+test_cases:
+- expected_values:
+    LEXUS_RHEOSTAT: 226
+  response: 7C8036168E2
+- expected_values:
+    LEXUS_RHEOSTAT: 227
+  response: 7C8036168E3
+- expected_values:
+    LEXUS_RHEOSTAT: 228
+  response: 7C8036168E4
+- expected_values:
+    LEXUS_RHEOSTAT: 229
+  response: 7C8036168E5
+- expected_values:
+    LEXUS_RHEOSTAT: 230
+  response: 7C8036168E6
+- expected_values:
+    LEXUS_RHEOSTAT: 231
+  response: 7C8036168E7
+- expected_values:
+    LEXUS_RHEOSTAT: 232
+  response: 7C8036168E8
+- expected_values:
+    LEXUS_RHEOSTAT: 233
+  response: 7C8036168E9
+- expected_values:
+    LEXUS_RHEOSTAT: 255
+  response: 7C8036168FF

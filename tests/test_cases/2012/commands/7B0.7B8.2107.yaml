@@ -1,0 +1,8 @@
+command_id: 7B0.7B8.2107
+test_cases:
+- expected_values:
+    LEXUS_WHEEL_CYLINDER_PRESSURE: 0.47059
+  response: 7B803610718
+- expected_values:
+    LEXUS_WHEEL_CYLINDER_PRESSURE: 4.27451
+  response: 7B8036107DA
