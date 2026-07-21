@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2147
+test_cases:
+- expected_values:
+    LEXUS_EGR_STEP_POSITION: 0
+  response: '7E803614700'
+- expected_values:
+    LEXUS_EGR_STEP_POSITION: 8
+  response: '7E803614708'
+- expected_values:
+    LEXUS_EGR_STEP_POSITION: 50
+  response: '7E803614732'
+- expected_values:
+    LEXUS_EGR_STEP_POSITION: 51
+  response: '7E803614733'
+- expected_values:
+    LEXUS_EGR_STEP_POSITION: 52
+  response: '7E803614734'
