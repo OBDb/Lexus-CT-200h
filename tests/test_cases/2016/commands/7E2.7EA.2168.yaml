@@ -1,15 +1,15 @@
 command_id: 7E2.7EA.2168
 test_cases:
 - expected_values:
+    LEXUS_MG2_CTRL_MODE_PWM_0_1_2: 0
+    LEXUS_MG2_TQ_7E2: -78.5
+    LEXUS_MG2_TQ_EXECUTION: -76.5
+  response: 7EA0761687D8C7D9C00
+- expected_values:
     LEXUS_MG2_CTRL_MODE_PWM_0_1_2: 2
     LEXUS_MG2_TQ_7E2: -35.625
     LEXUS_MG2_TQ_EXECUTION: -33
   response: 7EA0761687EE37EF802
-- expected_values:
-    LEXUS_MG2_CTRL_MODE_PWM_0_1_2: 0
-    LEXUS_MG2_TQ_7E2: -19.125
-    LEXUS_MG2_TQ_EXECUTION: -18.125
-  response: 7EA0761687F677F6F00
 - expected_values:
     LEXUS_MG2_CTRL_MODE_PWM_0_1_2: 0
     LEXUS_MG2_TQ_7E2: 0
@@ -20,6 +20,11 @@ test_cases:
     LEXUS_MG2_TQ_7E2: 0
     LEXUS_MG2_TQ_EXECUTION: 0
   response: 7EA0761688000800000
+- expected_values:
+    LEXUS_MG2_CTRL_MODE_PWM_0_1_2: 0
+    LEXUS_MG2_TQ_7E2: 31.75
+    LEXUS_MG2_TQ_EXECUTION: 26.5
+  response: 7EA07616880FE80D400
 - expected_values:
     LEXUS_MG2_CTRL_MODE_PWM_0_1_2: 0
     LEXUS_MG2_TQ_7E2: 38.5

@@ -4,5 +4,5 @@ test_cases:
     LEXUS_COOLANT_T: 34.5
   response: 7C803612345
 - expected_values:
-    LEXUS_COOLANT_T: 76.5
-  response: 7C803612399
+    LEXUS_COOLANT_T: 91
+  response: 7C8036123B6

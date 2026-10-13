@@ -4,26 +4,8 @@ test_cases:
     LEXUS_COMP_SPD: 0
   response: 7CC0461490000
 - expected_values:
-    LEXUS_COMP_SPD: 1000
-  response: 7CC04614903E8
-- expected_values:
-    LEXUS_COMP_SPD: 1323
-  response: 7CC046149052B
-- expected_values:
-    LEXUS_COMP_SPD: 1440
-  response: 7CC04614905A0
-- expected_values:
-    LEXUS_COMP_SPD: 1463
-  response: 7CC04614905B7
-- expected_values:
-    LEXUS_COMP_SPD: 1571
-  response: 7CC0461490623
+    LEXUS_COMP_SPD: 1014
+  response: 7CC04614903F6
 - expected_values:
     LEXUS_COMP_SPD: 1833
   response: 7CC0461490729
-- expected_values:
-    LEXUS_COMP_SPD: 1944
-  response: 7CC0461490798
-- expected_values:
-    LEXUS_COMP_SPD: 1950
-  response: 7CC046149079E

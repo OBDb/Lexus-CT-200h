@@ -36,3 +36,9 @@ test_cases:
   response: |-
     7EA100A61E1000049F6
     7EA2100011158000000
+- expected_values:
+    LEXUS_NUM_CURRENT_CODE: 0
+    LEXUS_NUM_HISTORY_CODE: 0
+  response: |-
+    7EA100A61E1000049F8
+    7EA210000077E000000

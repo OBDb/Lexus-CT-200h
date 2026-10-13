@@ -4,26 +4,8 @@ test_cases:
     LEXUS_COMP_TGT_SPD: 0
   response: 7CC04614A0000
 - expected_values:
-    LEXUS_COMP_TGT_SPD: 1098
-  response: 7CC04614A044A
-- expected_values:
-    LEXUS_COMP_TGT_SPD: 1247
-  response: 7CC04614A04DF
-- expected_values:
-    LEXUS_COMP_TGT_SPD: 1408
-  response: 7CC04614A0580
-- expected_values:
     LEXUS_COMP_TGT_SPD: 1519
   response: 7CC04614A05EF
 - expected_values:
     LEXUS_COMP_TGT_SPD: 1580
   response: 7CC04614A062C
-- expected_values:
-    LEXUS_COMP_TGT_SPD: 1671
-  response: 7CC04614A0687
-- expected_values:
-    LEXUS_COMP_TGT_SPD: 1676
-  response: 7CC04614A068C
-- expected_values:
-    LEXUS_COMP_TGT_SPD: 1759
-  response: 7CC04614A06DF
