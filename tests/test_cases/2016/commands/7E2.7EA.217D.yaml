@@ -6,10 +6,10 @@ test_cases:
     LEXUS_CONV_CARRIER_9_0_9_1_8_2_8_3_7_4_7_5_4_6: 0
   response: 7EA05617D000000
 - expected_values:
-    LEXUS_AC_CONS_POWER_W: 450
+    LEXUS_AC_CONS_POWER_W: 700
     LEXUS_BOOST_RAT: 0
     LEXUS_CONV_CARRIER_9_0_9_1_8_2_8_3_7_4_7_5_4_6: 0
-  response: 7EA05617D000009
+  response: 7EA05617D00000E
 - expected_values:
     LEXUS_AC_CONS_POWER_W: 200
     LEXUS_BOOST_RAT: 58.5

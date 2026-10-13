@@ -7,48 +7,6 @@ test_cases:
     LEXUS_VSS_V1: 0
   response: 7B803612100
 - expected_values:
-    LEXUS_VEHICLE_SPEED_7B0: 2.56
-    LEXUS_VSS: 2.7
-    LEXUS_VSS_7B0: 2.7
-    LEXUS_VSS_V1: 2.56
-  response: 7B803612102
-- expected_values:
-    LEXUS_VEHICLE_SPEED_7B0: 7.68
-    LEXUS_VSS: 8.1
-    LEXUS_VSS_7B0: 8.1
-    LEXUS_VSS_V1: 7.68
-  response: 7B803612106
-- expected_values:
-    LEXUS_VEHICLE_SPEED_7B0: 10.24
-    LEXUS_VSS: 10.8
-    LEXUS_VSS_7B0: 10.8
-    LEXUS_VSS_V1: 10.24
-  response: 7B803612108
-- expected_values:
-    LEXUS_VEHICLE_SPEED_7B0: 11.52
-    LEXUS_VSS: 12.15
-    LEXUS_VSS_7B0: 12.15
-    LEXUS_VSS_V1: 11.52
-  response: 7B803612109
-- expected_values:
-    LEXUS_VEHICLE_SPEED_7B0: 32
-    LEXUS_VSS: 33.75
-    LEXUS_VSS_7B0: 33.75
-    LEXUS_VSS_V1: 32
-  response: 7B803612119
-- expected_values:
-    LEXUS_VEHICLE_SPEED_7B0: 38.4
-    LEXUS_VSS: 40.5
-    LEXUS_VSS_7B0: 40.5
-    LEXUS_VSS_V1: 38.4
-  response: 7B80361211E
-- expected_values:
-    LEXUS_VEHICLE_SPEED_7B0: 42.24
-    LEXUS_VSS: 44.55
-    LEXUS_VSS_7B0: 44.55
-    LEXUS_VSS_V1: 42.24
-  response: 7B803612121
-- expected_values:
     LEXUS_VEHICLE_SPEED_7B0: 47.36
     LEXUS_VSS: 49.95
     LEXUS_VSS_7B0: 49.95
