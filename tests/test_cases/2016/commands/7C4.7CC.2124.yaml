@@ -4,5 +4,5 @@ test_cases:
     LEXUS_SOLAR_DRIVER: 4
   response: 7CC03612404
 - expected_values:
-    LEXUS_SOLAR_DRIVER: 132
-  response: 7CC03612484
+    LEXUS_SOLAR_DRIVER: 136
+  response: 7CC03612488
