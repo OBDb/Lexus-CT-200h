@@ -1,0 +1,50 @@
+command_id: 7B0.7B8.2146
+test_cases:
+- expected_values:
+    LEXUS_ZP_DEC: 0
+    LEXUS_ZP_DEC2: 0
+    LEXUS_ZP_YAW: 0
+    LEXUS_ZP_YAW_RATE: 0
+  response: |-
+    7B81009614600008080
+    7B8210F011500000000
+- expected_values:
+    LEXUS_ZP_DEC: 0
+    LEXUS_ZP_DEC2: 0
+    LEXUS_ZP_YAW: 0
+    LEXUS_ZP_YAW_RATE: 0
+  response: |-
+    7B81009614600008080
+    7B82129011500000000
+- expected_values:
+    LEXUS_ZP_DEC: 0
+    LEXUS_ZP_DEC2: 0
+    LEXUS_ZP_YAW: 0
+    LEXUS_ZP_YAW_RATE: 0
+  response: |-
+    7B81009614600008080
+    7B8212A011500000000
+- expected_values:
+    LEXUS_ZP_DEC: 0
+    LEXUS_ZP_DEC2: 0
+    LEXUS_ZP_YAW: 0
+    LEXUS_ZP_YAW_RATE: 0
+  response: |-
+    7B81009614600008080
+    7B8212B011500000000
+- expected_values:
+    LEXUS_ZP_DEC: 0
+    LEXUS_ZP_DEC2: 0
+    LEXUS_ZP_YAW: 0
+    LEXUS_ZP_YAW_RATE: 0
+  response: |-
+    7B81009614600008080
+    7B8212C011500000000
+- expected_values:
+    LEXUS_ZP_DEC: 0
+    LEXUS_ZP_DEC2: 0
+    LEXUS_ZP_YAW: 0
+    LEXUS_ZP_YAW_RATE: 0
+  response: |-
+    7B81009614600008080
+    7B8212E011500000000

@@ -1,0 +1,6 @@
+command_id: 7E2.7EA.218E
+test_cases:
+- expected_values:
+    LEXUS_COOLING_FAN_0: 0
+    LEXUS_COOLING_FAN_RELAY: 1
+  response: 7EA04618E0080
