@@ -1,4 +1,4 @@
-command_id: 7C4.2144
+command_id: 7C4.7CC.2144
 test_cases:
 - expected_values:
     LEXUS_AIR_INLET_DAMPER_ACTUAL_PULSE: 7
@@ -7,7 +7,7 @@ test_cases:
 - expected_values:
     LEXUS_AIR_INLET_DAMPER_ACTUAL_PULSE: 7
     LEXUS_AIR_INLET_DAMPER_TARGET_PULSE: 7
-  response: 7CC066144070700CE
+  response: 7CC066144070700D4
 - expected_values:
     LEXUS_AIR_INLET_DAMPER_ACTUAL_PULSE: 15
     LEXUS_AIR_INLET_DAMPER_TARGET_PULSE: 19

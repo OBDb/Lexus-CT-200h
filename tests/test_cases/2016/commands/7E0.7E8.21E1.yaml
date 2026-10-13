@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.21E1
+test_cases:
+- expected_values:
+    LEXUS_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E1000049F6
+    7E82100000B35000000
+- expected_values:
+    LEXUS_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E1000049F6
+    7E82100001BDF000000
+- expected_values:
+    LEXUS_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E1000049F6
+    7E82100002680000000
+- expected_values:
+    LEXUS_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E1000049F6
+    7E82100005FFD000000
+- expected_values:
+    LEXUS_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E1000049F6
+    7E82100010004000000
+- expected_values:
+    LEXUS_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E1000049F6
+    7E8210001112D000000

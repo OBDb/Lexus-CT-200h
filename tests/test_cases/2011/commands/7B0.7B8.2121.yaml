@@ -3,8 +3,12 @@ test_cases:
 - expected_values:
     LEXUS_VEHICLE_SPEED_7B0: 0
     LEXUS_VSS: 0
+    LEXUS_VSS_7B0: 0
+    LEXUS_VSS_V1: 0
   response: 7B803612100
 - expected_values:
     LEXUS_VEHICLE_SPEED_7B0: 126.72
-    LEXUS_VSS: 126.72
+    LEXUS_VSS: 133.65
+    LEXUS_VSS_7B0: 133.65
+    LEXUS_VSS_V1: 126.72
   response: 7B803612163
