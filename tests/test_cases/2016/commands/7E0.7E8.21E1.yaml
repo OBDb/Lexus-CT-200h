@@ -35,3 +35,8 @@ test_cases:
   response: |-
     7E8100A61E1000049FE
     7E8210000007E000000
+- expected_values:
+    LEXUS_CODES_INCLUDE: 0
+  response: |-
+    7E8100A61E100004A02
+    7E8210000060F000000
