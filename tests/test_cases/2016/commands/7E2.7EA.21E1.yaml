@@ -29,12 +29,6 @@ test_cases:
     LEXUS_NUM_HISTORY_CODE: 0
   response: |-
     7EA100A61E1000049FA
-    7EA21000007A2000000
-- expected_values:
-    LEXUS_NUM_CURRENT_CODE: 0
-    LEXUS_NUM_HISTORY_CODE: 0
-  response: |-
-    7EA100A61E1000049FA
     7EA2100004005000000
 - expected_values:
     LEXUS_NUM_CURRENT_CODE: 0
@@ -42,3 +36,9 @@ test_cases:
   response: |-
     7EA100A61E1000049FA
     7EA2100004FC2000000
+- expected_values:
+    LEXUS_NUM_CURRENT_CODE: 0
+    LEXUS_NUM_HISTORY_CODE: 0
+  response: |-
+    7EA100A61E1000049FC
+    7EA21000004B1000000
