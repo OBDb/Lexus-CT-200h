@@ -1,8 +1,8 @@
 command_id: 7E2.7EA.218A
 test_cases:
 - expected_values:
-    LEXUS_POWER_RESOURCE_IB: 263202.32
-  response: 7EA04618A66F1
+    LEXUS_POWER_RESOURCE_IB: 247452.32
+  response: 7EA04618A60CA
 - expected_values:
     LEXUS_POWER_RESOURCE_IB: 324792.32
   response: 7EA04618A7F00
