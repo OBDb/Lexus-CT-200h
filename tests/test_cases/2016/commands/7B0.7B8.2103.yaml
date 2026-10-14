@@ -12,3 +12,9 @@ test_cases:
     LEXUS_TIRE_RL_SPD: 51.2
     LEXUS_TIRE_RR_SPD: 49.92
   response: 7B806610328282728
+- expected_values:
+    LEXUS_TIRE_FL_SPD: 51.2
+    LEXUS_TIRE_FR_SPD: 51.2
+    LEXUS_TIRE_RL_SPD: 51.2
+    LEXUS_TIRE_RR_SPD: 51.2
+  response: 7B806610328282828

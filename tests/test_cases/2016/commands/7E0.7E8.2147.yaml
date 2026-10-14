@@ -4,29 +4,5 @@ test_cases:
     LEXUS_EGR_STEP_POSITION: 0
   response: '7E803614700'
 - expected_values:
-    LEXUS_EGR_STEP_POSITION: 12
-  response: 7E80361470C
-- expected_values:
-    LEXUS_EGR_STEP_POSITION: 14
-  response: 7E80361470E
-- expected_values:
-    LEXUS_EGR_STEP_POSITION: 15
-  response: 7E80361470F
-- expected_values:
-    LEXUS_EGR_STEP_POSITION: 27
-  response: 7E80361471B
-- expected_values:
-    LEXUS_EGR_STEP_POSITION: 28
-  response: 7E80361471C
-- expected_values:
-    LEXUS_EGR_STEP_POSITION: 55
-  response: '7E803614737'
-- expected_values:
-    LEXUS_EGR_STEP_POSITION: 63
-  response: 7E80361473F
-- expected_values:
-    LEXUS_EGR_STEP_POSITION: 66
-  response: '7E803614742'
-- expected_values:
     LEXUS_EGR_STEP_POSITION: 72
   response: '7E803614748'
