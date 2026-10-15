@@ -2,6 +2,10 @@ command_id: 7E2.7EA.217C
 test_cases:
 - expected_values:
     LEXUS_MG1_CARRIER: 3750
+    LEXUS_MG2_CARRIER: 750
+  response: 7EA04617C4B0F
+- expected_values:
+    LEXUS_MG1_CARRIER: 3750
     LEXUS_MG2_CARRIER: 2500
   response: 7EA04617C4B32
 - expected_values:
