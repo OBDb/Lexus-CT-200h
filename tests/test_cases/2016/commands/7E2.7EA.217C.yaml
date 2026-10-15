@@ -6,6 +6,10 @@ test_cases:
   response: 7EA04617C4B32
 - expected_values:
     LEXUS_MG1_CARRIER: 3750
+    LEXUS_MG2_CARRIER: 3750
+  response: 7EA04617C4B4B
+- expected_values:
+    LEXUS_MG1_CARRIER: 3750
     LEXUS_MG2_CARRIER: 5000
   response: 7EA04617C4B64
 - expected_values:
