@@ -7,5 +7,5 @@ test_cases:
     LEXUS_COMP_TGT_SPD: 1533
   response: 7CC04614A05FD
 - expected_values:
-    LEXUS_COMP_TGT_SPD: 2459
-  response: 7CC04614A099B
+    LEXUS_COMP_TGT_SPD: 2633
+  response: 7CC04614A0A49
