@@ -7,5 +7,5 @@ test_cases:
     LEXUS_COMP_SPD: 1535
   response: 7CC04614905FF
 - expected_values:
-    LEXUS_COMP_SPD: 2800
-  response: 7CC0461490AF0
+    LEXUS_COMP_SPD: 3891
+  response: 7CC0461490F33

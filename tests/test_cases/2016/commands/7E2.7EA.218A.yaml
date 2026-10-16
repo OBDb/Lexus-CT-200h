@@ -4,8 +4,8 @@ test_cases:
     LEXUS_POWER_RESOURCE_IB: 247452.32
   response: 7EA04618A60CA
 - expected_values:
-    LEXUS_POWER_RESOURCE_IB: 304222.32
-  response: 7EA04618A76F7
+    LEXUS_POWER_RESOURCE_IB: 281232.32
+  response: 7EA04618A6DFC
 - expected_values:
     LEXUS_POWER_RESOURCE_IB: 314552.32
   response: 7EA04618A7B00
