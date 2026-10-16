@@ -21,15 +21,15 @@ test_cases:
     LEXUS_TOT_FT_1: 7.42188
   response: 7E807613C143B0FFF93
 - expected_values:
-    LEXUS_INJ_DUR_CYL_1: 2.536
-    LEXUS_INJ_VOL_CYL_1: 0.00023
-    LEXUS_TOT_FT_1: 12.5
-  response: 7E807613C1C4E09E8A0
-- expected_values:
     LEXUS_INJ_DUR_CYL_1: 3.868
     LEXUS_INJ_VOL_CYL_1: 0.00025
     LEXUS_TOT_FT_1: 9.375
   response: 7E807613C1EFF0F1C98
+- expected_values:
+    LEXUS_INJ_DUR_CYL_1: 5.465
+    LEXUS_INJ_VOL_CYL_1: 0.00025
+    LEXUS_TOT_FT_1: 12.89062
+  response: 7E807613C1F161559A1
 - expected_values:
     LEXUS_INJ_DUR_CYL_1: 10.212
     LEXUS_INJ_VOL_CYL_1: 0.00042
