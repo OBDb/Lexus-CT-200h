@@ -7,12 +7,6 @@ test_cases:
     LEXUS_MG1_T_V2: 17
   response: 7EA0761613936398000
 - expected_values:
-    LEXUS_MG1_REVOLUTION: 7666
-    LEXUS_MG1_T_AFTER_IG_ON: 46
-    LEXUS_MG1_T_MAX: 47
-    LEXUS_MG1_T_V2: 47
-  response: 7EA0761615756579DF2
-- expected_values:
     LEXUS_MG1_REVOLUTION: -1
     LEXUS_MG1_T_AFTER_IG_ON: 55
     LEXUS_MG1_T_MAX: 55
@@ -24,6 +18,12 @@ test_cases:
     LEXUS_MG1_T_MAX: 75
     LEXUS_MG1_T_V2: 75
   response: 7EA0761617369736C7C
+- expected_values:
+    LEXUS_MG1_REVOLUTION: 8412
+    LEXUS_MG1_T_AFTER_IG_ON: 68
+    LEXUS_MG1_T_MAX: 75
+    LEXUS_MG1_T_V2: 75
+  response: 7EA076161736C73A0DC
 - expected_values:
     LEXUS_MG1_REVOLUTION: -1353
     LEXUS_MG1_T_AFTER_IG_ON: 76
