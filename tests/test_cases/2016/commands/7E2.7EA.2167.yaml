@@ -1,6 +1,11 @@
 command_id: 7E2.7EA.2167
 test_cases:
 - expected_values:
+    LEXUS_MG1_CTRL_MODE_PWM_0_1_2: 2
+    LEXUS_MG1_TQ_7E2: -35.125
+    LEXUS_MG1_TQ_EXECUTION: -30.375
+  response: 7EA0761677EE77F0D02
+- expected_values:
     LEXUS_MG1_CTRL_MODE_PWM_0_1_2: 0
     LEXUS_MG1_TQ_7E2: -33
     LEXUS_MG1_TQ_EXECUTION: -30
