@@ -12,9 +12,9 @@ test_cases:
   response: 7EA0761687ED67EF902
 - expected_values:
     LEXUS_MG2_CTRL_MODE_PWM_0_1_2: 2
-    LEXUS_MG2_TQ_7E2: -1.25
+    LEXUS_MG2_TQ_7E2: -1.625
     LEXUS_MG2_TQ_EXECUTION: 0
-  response: 7EA0761687FF6800002
+  response: 7EA0761687FF3800002
 - expected_values:
     LEXUS_MG2_CTRL_MODE_PWM_0_1_2: 0
     LEXUS_MG2_TQ_7E2: 0
