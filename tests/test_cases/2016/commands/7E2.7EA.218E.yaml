@@ -5,6 +5,6 @@ test_cases:
     LEXUS_COOLING_FAN_RELAY: 1
   response: 7EA04618E0080
 - expected_values:
-    LEXUS_COOLING_FAN_0: 66.5
+    LEXUS_COOLING_FAN_0: 67
     LEXUS_COOLING_FAN_RELAY: 1
-  response: 7EA04618E8580
+  response: 7EA04618E8680
