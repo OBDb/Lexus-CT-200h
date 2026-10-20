@@ -1,0 +1,26 @@
+command_id: 7B0.7B8.2106|f=-2022
+test_cases:
+- expected_values:
+    CT200H_YAW_1: -49
+    CT200H_YAW_2: -49
+  response: 7B80661064F4F7178
+- expected_values:
+    CT200H_YAW_1: -40
+    CT200H_YAW_2: -40
+  response: 7B806610658586D40
+- expected_values:
+    CT200H_YAW_1: -18
+    CT200H_YAW_2: -18
+  response: 7B80661066E6E9338
+- expected_values:
+    CT200H_YAW_1: -6
+    CT200H_YAW_2: -6
+  response: 7B80661067A7A8FFF
+- expected_values:
+    CT200H_YAW_1: -1
+    CT200H_YAW_2: -1
+  response: 7B80661067F7F8000
+- expected_values:
+    CT200H_YAW_1: 32
+    CT200H_YAW_2: 32
+  response: 7B8066106A0A08A41

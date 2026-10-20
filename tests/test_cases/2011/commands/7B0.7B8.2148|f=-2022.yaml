@@ -1,0 +1,14 @@
+command_id: 7B0.7B8.2148|f=-2022
+test_cases:
+- expected_values:
+    CT200H_FR_REGEN_OPERATION: 0
+    CT200H_FR_REGEN_REQUEST: 0
+  response: 7B806614800000000
+- expected_values:
+    CT200H_FR_REGEN_OPERATION: 45
+    CT200H_FR_REGEN_REQUEST: 48
+  response: 7B80661480030002D
+- expected_values:
+    CT200H_FR_REGEN_OPERATION: 48
+    CT200H_FR_REGEN_REQUEST: 48
+  response: 7B806614800300030

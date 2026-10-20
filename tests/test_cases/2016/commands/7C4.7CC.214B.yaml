@@ -1,8 +1,8 @@
 command_id: 7C4.7CC.214B
 test_cases:
 - expected_values:
-    LEXUS_EVAP_FIN_THERMISTOR: -1
+    CT200H_EVAP_FIN_THERMISTOR: -1
   response: 7CC03614B52
 - expected_values:
-    LEXUS_EVAP_FIN_THERMISTOR: 20.35
+    CT200H_EVAP_FIN_THERMISTOR: 20.35
   response: 7CC03614B8F

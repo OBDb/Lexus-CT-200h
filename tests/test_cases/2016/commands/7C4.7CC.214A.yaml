@@ -1,11 +1,11 @@
 command_id: 7C4.7CC.214A
 test_cases:
 - expected_values:
-    LEXUS_COMP_TGT_SPD: 0
+    CT200H_COMP_TGT_SPD: 0
   response: 7CC04614A0000
 - expected_values:
-    LEXUS_COMP_TGT_SPD: 1023
+    CT200H_COMP_TGT_SPD: 1023
   response: 7CC04614A03FF
 - expected_values:
-    LEXUS_COMP_TGT_SPD: 3840
+    CT200H_COMP_TGT_SPD: 3840
   response: 7CC04614A0F00

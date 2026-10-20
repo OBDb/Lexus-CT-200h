@@ -1,0 +1,50 @@
+command_id: 7B0.7B8.2147|f=-2022
+test_cases:
+- expected_values:
+    CT200H_LAT_G: 0
+    CT200H_LNG_G: 0
+    CT200H_STEER_ANGLE: -37.5
+    CT200H_YAW_RATE: 0
+  response: 7B80761470000807E89
+- expected_values:
+    CT200H_LAT_G: 0
+    CT200H_LNG_G: 0
+    CT200H_STEER_ANGLE: 0
+    CT200H_YAW_RATE: 0
+  response: 7B80761470000808000
+- expected_values:
+    CT200H_LAT_G: 0
+    CT200H_LNG_G: 0.06
+    CT200H_STEER_ANGLE: -0.1
+    CT200H_YAW_RATE: 0
+  response: 7B80761470003807FFF
+- expected_values:
+    CT200H_LAT_G: 0
+    CT200H_LNG_G: -0.02
+    CT200H_STEER_ANGLE: -1.7
+    CT200H_YAW_RATE: 0
+  response: 7B807614700FF807FEF
+- expected_values:
+    CT200H_LAT_G: 0.3
+    CT200H_LNG_G: 0.02
+    CT200H_STEER_ANGLE: 203.8
+    CT200H_YAW_RATE: 27
+  response: 7B80761470F019B87F6
+- expected_values:
+    CT200H_LAT_G: -0.24
+    CT200H_LNG_G: 0.12
+    CT200H_STEER_ANGLE: -254
+    CT200H_YAW_RATE: -29
+  response: 7B8076147F406637614
+- expected_values:
+    CT200H_LAT_G: -0.02
+    CT200H_LNG_G: 0
+    CT200H_STEER_ANGLE: -364.5
+    CT200H_YAW_RATE: 0
+  response: 7B8076147FF008071C3
+- expected_values:
+    CT200H_LAT_G: -0.02
+    CT200H_LNG_G: 0.02
+    CT200H_STEER_ANGLE: 388.5
+    CT200H_YAW_RATE: 0
+  response: 7B8076147FF01808F2D
