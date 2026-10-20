@@ -1,0 +1,30 @@
+command_id: 7B0.7B8.213D|f=-2022
+test_cases:
+- expected_values:
+    CT200H_ABS_WARN: 0
+    CT200H_BRAKE_WARN: 0
+    CT200H_BUZZER: 0
+    CT200H_ECB_WARN: 0
+    CT200H_SLIP_WARN: 0
+  response: 7B805613D000000
+- expected_values:
+    CT200H_ABS_WARN: 0
+    CT200H_BRAKE_WARN: 0
+    CT200H_BUZZER: 0
+    CT200H_ECB_WARN: 0
+    CT200H_SLIP_WARN: 0
+  response: 7B805613D000080
+- expected_values:
+    CT200H_ABS_WARN: 0
+    CT200H_BRAKE_WARN: 0
+    CT200H_BUZZER: 0
+    CT200H_ECB_WARN: 0
+    CT200H_SLIP_WARN: 0
+  response: 7B805613D000800
+- expected_values:
+    CT200H_ABS_WARN: 1
+    CT200H_BRAKE_WARN: 1
+    CT200H_BUZZER: 0
+    CT200H_ECB_WARN: 1
+    CT200H_SLIP_WARN: 0
+  response: 7B805613DC20800

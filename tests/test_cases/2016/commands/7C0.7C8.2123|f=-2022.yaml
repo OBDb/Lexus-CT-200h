@@ -1,0 +1,8 @@
+command_id: 7C0.7C8.2123|f=-2022
+test_cases:
+- expected_values:
+    CT200H_ECT_7C0: 34.5
+  response: 7C803612345
+- expected_values:
+    CT200H_ECT_7C0: 92.5
+  response: 7C8036123B9

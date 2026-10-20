@@ -1,0 +1,14 @@
+command_id: 7C0.7C8.2141|f=-2022
+test_cases:
+- expected_values:
+    CT200H_OIL_CHANGE_ODO: 2414.016
+  response: 7C80361410F
+- expected_values:
+    CT200H_OIL_CHANGE_ODO: 2574.9504
+  response: 7C803614110
+- expected_values:
+    CT200H_OIL_CHANGE_ODO: 2735.8848
+  response: 7C803614111
+- expected_values:
+    CT200H_OIL_CHANGE_ODO: 2896.8192
+  response: 7C803614112
