@@ -37,6 +37,12 @@ test_cases:
     CT200H_YAW_RATE: -29
   response: 7B8076147F406637614
 - expected_values:
+    CT200H_LAT_G: -0.06
+    CT200H_LNG_G: -0.06
+    CT200H_STEER_ANGLE: -358.5
+    CT200H_YAW_RATE: -19
+  response: 7B8076147FDFD6D71FF
+- expected_values:
     CT200H_LAT_G: -0.02
     CT200H_LNG_G: 0
     CT200H_STEER_ANGLE: -364.5
