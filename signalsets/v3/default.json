@@ -6,7 +6,12 @@
   "commands": [
 { "hdr": "700", "rax": "708", "dbg": true, "cmd": {"22": "0103"}, "freq": 30,
   "signals": [
-    {"id": "CT200H_ENG_ODO", "path": "Trips", "fmt": {"bix": 8, "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
+    {"id": "CT200H_ENG_ODO_RAW", "path": "Trips", "fmt": {"bix": 8, "len": 24, "max": 16777215, "unit": "scalar" }, "name": "Odometer, in the cluster's unit"},
+    {"id": "CT200H_ENG_ODO_UNIT", "path": "Trips", "name": "Odometer unit", "fmt": {"len": 8, "map": {
+          "1": { "description": "Kilometers", "value": "KM" },
+          "2": { "description": "Miles",      "value": "MI" }
+        }}
+    }
   ]},
 { "hdr": "700", "rax": "708", "dbg": true, "cmd": {"22": "1002"}, "freq": 5,
   "signals": [
@@ -84,7 +89,7 @@
   ]},
 { "hdr": "700", "rax": "708", "dbg": true, "cmd": {"22": "107B"}, "freq": 5,
   "signals": [
-    {"id": "CT200H_EOT_700", "path": "Engine", "fmt": {"bix": 192, "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Engine oil temperature", "suggestedMetric": "engineOilTemperature"}
+    {"id": "CT200H_EOT_700", "path": "Engine", "fmt": {"bix": 192, "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Intake air temperature", "suggestedMetric": "intakeAirTemperature"}
   ]},
 { "hdr": "700", "rax": "708", "dbg": true, "cmd": {"22": "1084"}, "freq": 1,
   "signals": [
@@ -373,7 +378,12 @@
   ]},
 { "hdr": "701", "rax": "709", "dbg": true, "cmd": {"22": "0103"}, "freq": 10,
   "signals": [
-    {"id": "CT200H_ODO_V5", "path": "Trips", "fmt": {"bix": 8, "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
+    {"id": "CT200H_ODO_V5_RAW", "path": "Trips", "fmt": {"bix": 8, "len": 24, "max": 16777215, "unit": "scalar" }, "name": "Odometer, in the cluster's unit"},
+    {"id": "CT200H_ODO_V5_UNIT", "path": "Trips", "name": "Odometer unit", "fmt": {"len": 8, "map": {
+          "1": { "description": "Kilometers", "value": "KM" },
+          "2": { "description": "Miles",      "value": "MI" }
+        }}
+    }
   ]},
 { "hdr": "701", "rax": "709", "dbg": true, "cmd": {"22": "1614"}, "freq": 0.25,
   "signals": [
@@ -1349,5 +1359,13 @@
     {"id": "CT200H_NUM_CURRENT_CODE", "path": "Engine", "fmt": {          "len": 8, "max": 255, "unit": "scalar" }, "name": "Number of current code"},
     {"id": "CT200H_NUM_HISTORY_CODE", "path": "Engine", "fmt": {"bix": 8, "len": 8, "max": 255, "unit": "scalar" }, "name": "Number of history code"}
   ]}
+],
+"synthetics": [
+  { "id": "CT200H_ENG_ODO", "path": "Trips", "name": "Odometer", "max": 16777215, "unit": "kilometers", "suggestedMetric": "odometer", "formula": {
+    "op": "unit", "value": "CT200H_ENG_ODO_RAW", "key": "CT200H_ENG_ODO_UNIT", "units": { "KM": "kilometers", "MI": "miles" }
+  }},
+  { "id": "CT200H_ODO_V5", "path": "Trips", "name": "Odometer", "max": 16777215, "unit": "kilometers", "suggestedMetric": "odometer", "formula": {
+    "op": "unit", "value": "CT200H_ODO_V5_RAW", "key": "CT200H_ODO_V5_UNIT", "units": { "KM": "kilometers", "MI": "miles" }
+  }}
 ]
 }
